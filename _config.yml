@@ -25,7 +25,7 @@ avatar_image: /img/profile_picture.JPG
 linkedln: "https://linkedin.com/in/sunhds/" # Add your linkedln handle
 github: "https://github.com/sunny-ds"  # Add your github handle
 
-paginate: 6
+paginate: 10
 paginate_path: "/page/:num"
 
 sass:
